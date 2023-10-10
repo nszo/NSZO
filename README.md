@@ -33,4 +33,9 @@
 <!--Intro end-->
 
 
-
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,html,css,sass,tailwind,js,mysql,php,nodejs,react,electron,redux,vite,svelte,py,flask,django,ai,blender,wordpress,discord,docker,figma,firebase,idea,java,spring,flutter,kotlin,androidstudio,linux,postman,tailwind,ts,swift,cloudflare,heroku,netlify,powershell,vscode&perline=14" />
+  </a>
+</p>
